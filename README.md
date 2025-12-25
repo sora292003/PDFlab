@@ -39,3 +39,8 @@ Desarrollado en Python. Utiliza las siguientes librerías para su funcionamiento
 
 ---
 **Licencia:** Software de uso gratuito.
+---
+## Créditos y Agradecimientos
+
+* **Desarrollador Principal:** [@sora292003](https://github.com/sora292003)
+* **Asistencia en el Desarrollo:** Programado en colaboración con **Gemini (Google AI)**.
